@@ -1,1 +1,1 @@
-# HTM-CSS-Homework
+# HTML-CSS-Homework
